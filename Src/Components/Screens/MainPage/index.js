@@ -202,7 +202,7 @@ export function MaginPage({ navigation }) {
             </View>
             <View style={{ justifyContent: "center", }}>
               <Text style={{ color: "#57636F", fontSize: 20 }}>
-                Kimono Clogs
+                Vinta Backpack
               </Text>
               <Text style={{ color: "#126881", fontSize: 35 }}>
                 $65
@@ -258,7 +258,7 @@ export function MaginPage({ navigation }) {
             </View>
             <View style={{ justifyContent: "center", }}>
               <Text style={{ color: "#57636F", fontSize: 20 }}>
-                Kimono Clogs
+                Vinta Backpack
               </Text>
               <Text style={{ color: "#126881", fontSize: 35 }}>
                 $65
