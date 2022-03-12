@@ -1,0 +1,11 @@
+<svg id="Shirt_Icon" xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+  <rect id="Rectangle_126" data-name="Rectangle 126" width="62" height="62" rx="10" fill="#fff"/>
+  <g id="Shirt" transform="translate(-832 -925)">
+    <path id="Vector_111" data-name="Vector 111" d="M862.5,949.5l-5.5,4-3.5-7.5,2.5-4Z" fill="none" stroke="#126881" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Rectangle_130" data-name="Rectangle 130" d="M854,946.5h-1a2,2,0,0,0-2,2v20a2,2,0,0,0,2,2h20a2,2,0,0,0,2-2v-20a2,2,0,0,0-2-2h-1.5" fill="none" stroke="#126881" stroke-width="1"/>
+    <path id="Vector_112" data-name="Vector 112" d="M863,949.5l5.5,4L872,946l-2.5-4Z" fill="none" stroke="#126881" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Vector_113" data-name="Vector 113" d="M856,942h13" fill="none" stroke="#126881" stroke-linecap="round" stroke-width="1"/>
+    <path id="Vector_114" data-name="Vector 114" d="M859,952.5l3.5,3.5,3.5-3.5" fill="none" stroke="#126881" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Vector_115" data-name="Vector 115" d="M859.5,964l3-7.5L866,964l-3.5,2.5Z" fill="none" stroke="#126881" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
